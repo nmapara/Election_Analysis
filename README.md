@@ -72,5 +72,3 @@ for the results for each state (and it's potential impact on the electoral colle
 candidate vote count is equal for two candidate, and new statement needs to be written requesting a recount.
 
 
-
-
