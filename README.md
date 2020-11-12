@@ -69,6 +69,6 @@ If we wanted to make the code useable for general elections, the following shoul
 for the results for each state (and it's potential impact on the electoral college)
 
 2. The code does not handle a situation where there is a tie between two candidates.  In the event that the 
-candidate vote count is equal for two candidate, and new statement needs to be written requesting a recount.
+candidate vote count is equal for two candidates, a new statement needs to be written requesting a recount.
 
 
