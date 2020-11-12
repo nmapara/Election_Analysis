@@ -14,13 +14,13 @@ We were also asked to study the counties for voter turnout, and determine:
 1. Calculate the number of votes cast in each county
 2. Determine the county with the greatest number of votes (or voter turnout)
 
-##Resources
+## Resources
 - Data Source: election_results.csv
 - Software: Python 3.6.1, Visual Studio Code, 1.38.1
 
-##Election Audit Results
+## Election Audit Results
 
-###Candidate Voting
+### Candidate Voting
 The analysis of the slection show that:
 - There were 369, 711 votes cast in the election.
 - The canidates were:
@@ -36,7 +36,7 @@ Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
 -The winner of the election was
 Diane DeGette who received 73.8% of the vote and 272,892 votes.
 
-###County Voter Turnout
+### County Voter Turnout
 The analysis of the data showed that
 - There were three counties involved in the election:
 - Jefferson
@@ -50,14 +50,14 @@ Arapahoe had 24,801 or 6.7% of the total voter turnout.
 
 -The county with the largest voter turnout was Denver.
 
-##Election Audit Summary
+## Election Audit Summary
 The script we used was based on the python code developed during the learning sections of module 3.
 To incorporate the county data into the analysis, we followed similar algorithms that were used in the study
 of the voter data information.  In most instances, variables that were used to study the voter data were just renamed to anlayze county data, with similar algoriths and calculations.  Because the county data was just another column in the original CSV file, it was relatively easy to conduct the county analysis.  
 Rather then picking the candidate with the most votes, we determined the county with the most votes (or 
 voter turnout).
 
-###Use of Script for General Elections
+### Use of Script for General Elections
 The script developed could be used for general elections since there were no fixed variables defined
 in the code that would limit the number of candidates or the number of counties.
 In the figure below, we see the lines of code that were used to read the rows:
